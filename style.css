@@ -1,0 +1,60 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+section {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Add your own styles as needed */
+
+/* Center-align text in cards */
+.card {
+    text-align: center;
+}
+
+/* Style for image gallery */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.blog-header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+}
+
+.blog-header h1 {
+    margin: 0;
+}
+
+.post-meta {
+    margin-top: 0.5em;
+    font-size: 0.8em;
+}
+
+.blog-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.blog-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.card animated fadeIn {
+    animation-duration: 1s;
+    padding: 1px 12px;
+}
